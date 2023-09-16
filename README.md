@@ -7,11 +7,11 @@ Anotações do livro Entendendo algoritmos do Aditya Y. Bhargara, para fins de e
 * Algoritmo pesquisa binária
 * Notação Big O
 
-## Capítulo 2 - Ordenação por seleção
+## [Capítulo 2 - Ordenação por seleção](02_ordenacao_por_selecao/README.md)
 
 * Como funciona a memória
 * Arrays e listas encadeadas
 * Ordenação por seleção
 
-## Capítulo 3 - Recursão
+## [Capítulo 3 - Recursão](03_recursao/README.md)
 
